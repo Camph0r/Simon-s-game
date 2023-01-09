@@ -2,7 +2,7 @@
 Simon's game website using Javascript
 
 
-# <h3> [Link to Website](https://agastya9i.github.io/Simon-s-game/)</h3>
+# <h3> [Link to Website](https://camph0r.github.io/Simon-s-game//)</h3>
 
 
 
